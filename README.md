@@ -2,7 +2,7 @@
 
 Welcome to the C++ Programming course! This repo is designed to equip one with , establishing a solid foundation for implementing data structures as C++ classes.
 
-## Course Overview
+## Overview
 
 DSA & Algorithms
 1. Data structures
